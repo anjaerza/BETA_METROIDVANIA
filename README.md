@@ -1,7 +1,7 @@
 Integrantes:
 
 Miguel Angel Rico Yate
-Adrián Osorio Restrepo
+Adrián Osorio Restrepo 000318733
 Andrés Javier Eraso Zambrano  000349895
 
 Nombre juego:
