@@ -1,6 +1,6 @@
 Integrantes:
 
-Miguel Angel Rico Yate
+Miguel Angel Rico Yate 000318327
 Adrián Osorio Restrepo 000318733
 Andrés Javier Eraso Zambrano  000349895
 
